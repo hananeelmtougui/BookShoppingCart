@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iOjpsyaxBhDw2Unp8yrJG7fkMtMiTtZGEb8+wDO09xk=",
+  "Hash": "jLhP5TPC/pmYe3NE6KBMgE6O/Pk51jeYsjaZTPyKwJA=",
   "Source": "BookShoppingCartMvcUI",
   "BasePath": "_content/BookShoppingCartMvcUI",
   "Mode": "Default",
@@ -1103,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Hanane.EL-MTOUGUI\\source\\repos\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\hobbit.jfif",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hanane.EL-MTOUGUI\\source\\repos\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "images/hobbit.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hobbit.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Hanane.EL-MTOUGUI\\source\\repos\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hanane.EL-MTOUGUI\\source\\repos\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "images/NoImage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\NoImage.png"
     }
   ]
 }
